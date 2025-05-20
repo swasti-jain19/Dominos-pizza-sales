@@ -3,8 +3,6 @@
 ## 🗂 Introduction
 This Power BI dashboard analyzes Domino's pizza sales data, providing key insights into revenue, order trends, and customer preferences. The dataset includes details on order transactions, pizza categories, and pricing information.
 
-![Dashboard](assets/dominos_dashboard.png)
-
 ### 📌 Key Dataset Columns:
 - **order_id**: Unique identifier for each order.
 - **pizza_name**: Name of the pizza ordered.
@@ -45,7 +43,7 @@ Avg Pizza per Order = DIVIDE([Total Pizza Sold],[Total no of order])
 ```
 ---
 
-![DASHBOARD](assets/dominos dashboard.jpg)
+![Dashboard](assets/dominos_dashboard.png)
 ## 📊 Dashboard Breakdown
 The dashboard consists of the following key sections:
 
